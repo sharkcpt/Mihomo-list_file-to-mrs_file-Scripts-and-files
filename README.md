@@ -1,7 +1,12 @@
 # Mihomo-list_file-to-mrs_file and Scripts
 These mrs files are used to help  who need to surf the Internet to happily.
 
+Releases里面有相关的mrs文件. 需要的自取
+
 这里是一些下载的url从MetaCubeX这里得到的. 感谢MetaCubeX的分享. 让我少很多麻烦事.
+geoip 是IPV4解析. geosite 是域名解析.
+netflix2.mrs  这个可以在flixvision上面看Netflix相关的电影. 
+
 
 https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/blob/sing/geo/geoip/twitter.json
 https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/blob/sing/geo/geosite/xvideos.json
