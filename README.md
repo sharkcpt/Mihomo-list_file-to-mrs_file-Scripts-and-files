@@ -3,7 +3,7 @@ These mrs files are used to help  who need to surf the Internet to happily.
 
 Releases里面有相关的mrs文件. 需要的自取
 
-这里是一些下载的url从MetaCubeX这里得到的. 感谢MetaCubeX的分享. 让我少很多麻烦事.
+这里是一些下载的url从MetaCubeX这里得到的. 部分是自己根据自身需求用MetaCubeX开源的json规则来自作的mrs文件. 感谢MetaCubeX的分享. 让我少很多麻烦事.
 geoip 是IPV4解析. geosite 是域名解析.
 netflix2.mrs  这个可以在flixvision上面看Netflix相关的电影. 
 
