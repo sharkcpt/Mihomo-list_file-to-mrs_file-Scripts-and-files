@@ -1,4 +1,4 @@
-# Mihomo-list_file-to-mrs_file and Scripts
+# Mihomo-mrs-file 
 These mrs files are used to help  who need to surf the Internet to happily.
 
 Releases里面有相关的mrs文件. 需要的自取
